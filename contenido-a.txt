@@ -1,3 +1,6 @@
 en rama A
+
 segundo ambio realizado
+
+cambio realizado en myRepo
 cambio 2
